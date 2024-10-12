@@ -3,6 +3,7 @@ def calculate_average(numbers):
     average = total / len(numbers)
     return average
 
+#another comment
 # Example usage
 numbers_list = [10, 20, 30, 40, 50]
 result = calculate_average(numbers_list)
